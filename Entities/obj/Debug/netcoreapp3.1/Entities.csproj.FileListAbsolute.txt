@@ -1,0 +1,9 @@
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.pdb
